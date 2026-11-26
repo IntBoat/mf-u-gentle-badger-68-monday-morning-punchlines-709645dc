@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/IntBoat/mf-u-gentle-badger-68-monday-morning-punchlines-709645dc/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
 [![reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/IntBoat/mf-u-gentle-badger-68-monday-morning-punchlines-709645dc/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
 
-One joke about Monday mornings, written to /output/entry.txt by a small Python program. Entered in make.fun's Monday Morning Punchlines bounty.
+A single joke about Monday mornings, told as a small negotiation between an alarm clock and the weekend. A small Python program writes the line to `/output/entry.txt`. This repository is an entry in make.fun's Monday Morning Punchlines bounty.
 
 ## Entry
 
@@ -15,6 +15,8 @@ One joke about Monday mornings, written to /output/entry.txt by a small Python p
 ```sh
 python3 main.py
 ```
+
+The program creates `/output/entry.txt` containing exactly the line above.
 
 ---
 
